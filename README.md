@@ -9,7 +9,7 @@ I’m a .NET Full Stack developer with 6+ years of experience in developing and 
 <img height="40" src="https://github.com/RaoufEbrahimi/RaoufEbrahimi/blob/main/CSharp_Icon.png?raw=true" alt="terminal" style="max-width: 100%;">
 <img height="40" src="https://github.com/RaoufEbrahimi/RaoufEbrahimi/blob/main/net_core.svg.png?raw=true" alt="terminal" style="max-width: 100%;">
 <img height="40" src="https://github.com/RaoufEbrahimi/RaoufEbrahimi/blob/main/JavaScript.png?raw=true" alt="terminal" style="max-width: 100%;">
-<img height="40" src="https://github.com/RaoufEbrahimi/RaoufEbrahimi/blob/mainSQLServer_Icon.png?raw=true" alt="terminal" style="max-width: 100%;">
+<img height="40" src="https://github.com/RaoufEbrahimi/RaoufEbrahimi/blob/main/SQLServer_Icon.png?raw=true" alt="terminal" style="max-width: 100%;">
 <img height="40" src="https://github.com/RaoufEbrahimi/RaoufEbrahimi/blob/main/HTML_Icon.png?raw=true" alt="terminal" style="max-width: 100%;">
 <img height="40" src="https://github.com/RaoufEbrahimi/RaoufEbrahimi/blob/main/CSS_Icon.png?raw=true" alt="terminal" style="max-width: 100%;">
 <img height="40" src="https://github.com/RaoufEbrahimi/RaoufEbrahimi/blob/main/bootstrap_icon.png?raw=true" alt="terminal" style="max-width: 100%;">
