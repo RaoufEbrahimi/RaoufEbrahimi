@@ -1,7 +1,5 @@
-### Hi there 👋
 
-
-# Summary
+# Hi, this is Raouf
 
 I’m a .NET Full Stack developer with 6+ years of experience in developing and testing various web applications such as E-Commerce solutions and enterprise projects like Human Resources, Fixed Assets, and Production. Besides my technical skills, I enjoy new challenges and cooperating with my colleagues to solve tough problems creatively. In addition, I’m eager to learn new technologies and share my knowledge with my teammates. 
 
