@@ -37,7 +37,7 @@ I’m a .NET Full Stack developer with 6+ years of experience in developing and 
 - Aspire to pursue a Master education in Computer Science with a focus on software engineering.
 
 ## Contact Information
-- Email: R.Ibrahiminasab@gmail.com
+- Email: R.Ibrahiminasab[at]gmail.com
 - LinkedIn: [linkedin.com/in/raoufebrahimi](https://www.linkedin.com/in/raoufebrahimi)
 
 ### Languages and Tools:
