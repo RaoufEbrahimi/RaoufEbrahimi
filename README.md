@@ -18,7 +18,7 @@ I’m a .NET Full Stack developer with 6+ years of experience in developing and 
   - Hold problem-solving class for other students in web development course.
 
 ## Professional Experience
-- .NET Developer at ERP and E-Commerce Solutions in Vatan Zarin Industrial Group (2017 - Present)
+- .NET Developer at ERP and E-Commerce Solutions within the Vatan Zarin Industrial Group. (2017 - Present)
   - Trained and onboarded newcomers on several projects.
   - Collaborated with cross-functional teams to deliver high-quality software solutions.
   - Involved in the R&D team to recommend technologies and methodologies best suited for the development of high-quality and scalable software solutions in our company.
