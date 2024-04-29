@@ -13,15 +13,15 @@ I’m a .NET Full Stack developer with 6+ years of experience in developing and 
 
 ## Education
 - Bachelor of Science in Information Technology Engineering, Azad University (2014)
-  - Conducted research in GreenIT and ITIL as university projects
-  - Implemented Minecraft Game and News Website as class assingments
-  - Hold problem-solving class for other students in web development course
+  - Conducted research in GreenIT and ITIL as university projects.
+  - Implemented Minecraft Game and News Website as class assingments.
+  - Hold problem-solving class for other students in web development course.
 
 ## Professional Experience
 - .NET Developer at ERP and E-Commerce Solutions in Vatan Zarin Industrial Group (2017 - Present)
   - Trained and onboarded newcomers on several projects.
   - Collaborated with cross-functional teams to deliver high-quality software solutions.
-  - Involved in the R&D team to recommend technologies and methodologies best suited for the development of high-quality and scalable software solutions in our company
+  - Involved in the R&D team to recommend technologies and methodologies best suited for the development of high-quality and scalable software solutions in our company.
 
 ## Research Interests
 - Currently exploring topics such as unit testing, software architecture and design patterns.
