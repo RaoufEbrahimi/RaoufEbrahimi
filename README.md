@@ -5,7 +5,7 @@ I’m a .NET Full Stack developer with 6+ years of experience in developing and 
 
 
 ## Skills
-- Programming Languages: C#, .NET, SQL, JavaScript, HTML, CSS
+- Programming Languages: C#, .NET, SQL, JavaScript, HTML, CSS and Python for AI
 - Frameworks/Libraries: ASP.NET, Entity Framework, BootStrap
 - Tools/Technologies: Visual Studio, Git, SVN, StimulSoft
 - Concepts : Design Patterns, Object-Oriented Programming (OOP), SOLID, TDD, KISS, N-Tier Architecture, Clean Architecture, CQRS, Mediator, Dependency Injection, Dependency Inversion
@@ -27,7 +27,7 @@ I’m a .NET Full Stack developer with 6+ years of experience in developing and 
 - Currently exploring topics such as unit testing, software architecture and design patterns.
 - Intrested in conduction research in :
   - Scalable Software Development
-  - Mechine learning in software development
+  - Mechine learning/LLMs in software development
   - Software Quality Assurance
   - Software Testing Methodologies
   - Incorporated BlockChain
