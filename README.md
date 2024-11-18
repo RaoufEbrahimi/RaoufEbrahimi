@@ -33,7 +33,7 @@ I’m a .NET Full Stack developer with 6+ years of experience in developing and 
 
 ## Goals and Aspirations
 - Aim to contribute to the advancement of software development through research and innovation.
-- Aspire to pursue a Master education in Computer Science with a focus on software engineering.
+- Aspire to pursue a Master/PhD education in Computer Science with a focus on software engineering.
 
 ## Contact Information
 - Email: R.Ibrahiminasab[at]gmail.com
