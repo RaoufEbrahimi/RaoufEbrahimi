@@ -30,7 +30,6 @@ I’m a .NET Full Stack developer with 6+ years of experience in developing and 
   - Mechine learning/LLMs in software development
   - Software Quality Assurance
   - Software Testing Methodologies
-  - Incorporated BlockChain
 
 ## Goals and Aspirations
 - Aim to contribute to the advancement of software development through research and innovation.
